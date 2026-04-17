@@ -71,7 +71,17 @@ I am deeply interested in:
 - 📱 Digital Product Strategy
 
 ---
+## 📊 GitHub Statistics
 
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sreesanjay-tech&show_icons=true&theme=calm&hide_border=true&title_color=C184F2&icon_color=C184F2&text_color=C184F2" width="450" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreesanjay-tech&layout=compact&theme=calm&hide_border=true&title_color=C184F2&text_color=C184F2" width="450" />
+</p>
+
+---
 ## 📚 Currently Learning
 
 - 📊 Advanced Data Analytics
