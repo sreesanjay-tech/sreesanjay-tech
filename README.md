@@ -5,6 +5,10 @@
 
 ---
 
+Welcome to my Business Analysis Portfolio — a curated collection of real-world case studies, requirements documentation, user stories, UML/BPMN models, and process improvement work.
+
+This repository reflects how I analyze, structure, design, and improve systems. My goal for 2026 is to grow into a strong Business Analyst with solid functional analysis, modelling, and problem-solving skills.
+
 ## 👨‍💼 About Me
 
 I am a **detail-oriented and highly passionate aspiring Business Analyst** with a strong focus on **banking (BFSI)** and **technology-driven environments**.
@@ -43,31 +47,36 @@ I am deeply interested in:
 - 🤝 Effective **stakeholder communication & collaboration**
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
-Azure openAI & cognitive services
-rest apis
-FIGma UI/UX
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cognitive Services](https://img.shields.io/badge/Azure%20Cognitive%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma%20UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ### 📊 Data & Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![eXCEL]
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
 
 ### 📌 Methodologies
 
 ![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+---
 
 ### 🧰 Tools
 
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
-![PowerBI]( 
-
----
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🚀 Focus Areas
 
@@ -97,11 +106,14 @@ FIGma UI/UX
 
 ---
 
-## 📫 Connect With Me
+## 🚀 What’s Inside This Portfolio?
 
-- 📧 Email: srsaanjey02@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/sreesaanjey-v-a94637191
+This repository currently showcases four end-to-end Business Analysis projects, each designed with real industry workflows in mind.
 
 ---
 
-⭐️ *“Transforming business problems into data-driven solutions.”*
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srsaanjey02@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreesaanjey-v-a94637191)
